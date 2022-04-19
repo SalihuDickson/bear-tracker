@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bear-tracker/static/css/main.9d46ca25.css",
+    "main.js": "/bear-tracker/static/js/main.ea8d8ccf.js",
+    "index.html": "/bear-tracker/index.html",
+    "main.9d46ca25.css.map": "/bear-tracker/static/css/main.9d46ca25.css.map",
+    "main.ea8d8ccf.js.map": "/bear-tracker/static/js/main.ea8d8ccf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d46ca25.css",
+    "static/js/main.ea8d8ccf.js"
+  ]
+}
