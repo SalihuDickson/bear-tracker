@@ -169,7 +169,7 @@ const Search = ({ panTo }) => {
       } catch (err) {
         console.log(err);
       }
-    }, 1500);
+    }, 400);
   }, [value]);
 
   React.useEffect(() => {
